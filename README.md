@@ -1,2 +1,2 @@
-# Java-and-DSA
-My whole Java and DSA journey
+# Java
+My whole core Java learning (:
